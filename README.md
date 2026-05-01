@@ -1,6 +1,6 @@
 # QueueSmart Full-Stack App
 
-This version turns your A1-A4 QueueSmart project into a real full-stack app.
+
 
 ## Included features
 
